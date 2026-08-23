@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Ashutosh Panda 👋
 
-<!--
-**ashutoshpanda-dev/ashutoshpanda-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Backend Developer | Spring Boot | Microservices | AWS
 
-Here are some ideas to get you started:
+I am a backend developer passionate about building scalable,
+reliable and production-ready applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+
+#### Backend
+- ☕ Java 8 / 11 / 17
+- 🌱 Spring Boot
+- 🔗 REST APIs
+- 🏗️ Microservices
+- 📨 Apache Kafka
+
+#### Databases & Caching
+- 🗄️ PostgreSQL
+- 🐬 MySQL
+- 🔴 Redis
+- JPA / Hibernate
+
+#### Cloud & DevOps
+- ☁️ AWS
+- 🐳 Docker
+- 🔧 Git / GitHub
+
+#### Monitoring & Observability
+- 📊 Prometheus
+- 📈 Grafana
+- ☁️ AWS CloudWatch
+
+### 📌 Featured Projects
+
+- Employee Management API
+- E-Commerce Backend
+- Payment Service
+- Microservices Architecture
+- AWS Cloud Deployment
+
+### 💼 Freelance Services
+
+- Java & Spring Boot Development
+- REST API Development
+- Microservices Development
+- Bug Fixing & Troubleshooting
+- Database Integration
+- Redis & Kafka Integration
+- AWS Deployment
+- Application Monitoring & Observability
+
+### 📫 Connect With Me
+
+- LinkedIn: Coming soon
+- Portfolio: Coming soon
+- Email: Coming soon
